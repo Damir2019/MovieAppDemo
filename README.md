@@ -14,4 +14,6 @@ tapping on each movie leads you to the movie description page where all the info
 
 at the main viewController there is a search bar, tapping insile automatically reffreshing the list filtered with the searching keywords the have beed tapped, not case sensitive. having nothing inside the search field returns the original movie list.
 
-i made a reusable cell with a xib file and registered it to the tableView, this cell i can use for other projects as well.
+i made a reusable cell with a xib file and registered it to the tableView, this cell can be used for an other projects.
+
+* important note: i was not thinking about UX in this demo.
